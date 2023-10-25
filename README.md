@@ -2,7 +2,7 @@
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Rafael Lourenço
 
 Teste termina às 09:40 (Turno 1) / 13:25 (Turno 2).
 
